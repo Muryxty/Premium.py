@@ -14,8 +14,8 @@ pkg install git -y
 <b>Run Script
 
 ```
-git clone https://github.com/muryxty/prem
-cd prem
+git clone https://github.com/muryxty/Prem
+cd Prem
 git pull
 python prem.py
 ```
